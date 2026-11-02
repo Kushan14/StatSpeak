@@ -1,6 +1,7 @@
 # Gradle build output
 .gradle/
 build/
+*.jar
 !gradle/wrapper/gradle-wrapper.jar
 
 # IDE specific files
@@ -19,3 +20,4 @@ tools/
 *.tmp
 .DS_Store
 Thumbs.db
+
