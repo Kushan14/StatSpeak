@@ -1,0 +1,21 @@
+# Gradle build output
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDE specific files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Portable tools cache
+tools/
+
+# Temporary or OS generated files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
